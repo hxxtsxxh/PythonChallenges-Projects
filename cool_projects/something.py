@@ -6,20 +6,30 @@ helps get you the username and domain name from an email address. You can even c
 message to the host with this information.
 
 """
+from colorama import Fore
 emails = []
 on = True
 
 
-def proccess_email(email_address):
+def process_email(email_address):
     if "@" in email_address:
         new_email = email_address.split('@')
-        emails.append((new_email[0], new_email[1]))
+        username = new_email[0]
+        domain = new_email[1]
+        emails.append(Fore.RED + 'Username: ' + username + '   Domain: ' + domain)
     elif enter_email == 's':
-        print(emails)
+        print('')
+        print(*emails, sep="\n")
+        print(Fore.WHITE + '')
+    elif enter_email == 'q':
+        print('')
+        print(Fore.GREEN + 'Goodbye!')
+        quit()
     else:
-        print('Invalid Input')
+        print(Fore.YELLOW + 'Invalid Input')
+        print('')
 
 
 while on:
     enter_email = input('Enter Email: ')
-    proccess_email(enter_email)
+    process_email(enter_email)
