@@ -22,12 +22,12 @@ link_enter = Entry(root, width=70, textvariable=link,
 
 # download video function
 def downloader():
+    path = filedialog.askdirectory()
     url = YouTube(str(link.get()))
     video = url.streams.get_highest_resolution()
     Label(root, text='Title: ' + url.title + f' ({url.length} sec)', font='arial 10 bold', bg='navy blue',
           fg='yellow').place(x=0, y=270)
 
-    path = filedialog.askdirectory()
     if len(path) < 1:
         Label(root, text='File is Unsaved!', font='arial 23 bold', bg='navy blue', fg='red').place(x=127, y=210)
     else:
