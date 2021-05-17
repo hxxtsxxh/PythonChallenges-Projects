@@ -27,6 +27,7 @@ while True:
     # detect faces in vid
     face_coordinates = trained_face_data.detectMultiScale(greyscaled_img)
 
+    f = 0
     # draw rectangles around the faces
     for (x, y, w, h) in face_coordinates:
         cv2.rectangle(frame, (x, y), (x + w, y + h), (random.randint(175, 255), random.randint(175, 255),
@@ -41,6 +42,7 @@ while True:
     if key == 27:
         quit()
 
+# This is for image
 # """
 
 # Load some pre-trained data on face frontals from opencv (haar cascade algorithm)
