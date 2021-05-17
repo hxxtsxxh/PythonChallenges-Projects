@@ -1,3 +1,5 @@
+import time
+
 from pytube import YouTube
 
 link_input = input("Enter the youtube link: ")
