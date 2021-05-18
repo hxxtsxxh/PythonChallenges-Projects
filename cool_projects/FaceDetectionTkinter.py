@@ -15,7 +15,7 @@ root.configure(bg='grey')
 
 def webcam_detection():
     # Load some pre-trained data on face frontals from opencv (haar cascade algorithm)
-    trained_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+    trained_face_data = cv2.CascadeClassifier('C:/haarcascade_frontalface_default.xml')
 
     # Choose an image to detect faces in
     # img = cv2.imread('HRTS.webp') # this is for image face detection
