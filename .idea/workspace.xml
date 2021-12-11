@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="" />
+    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" afterDir="false" />
+    </list>
+    <list id="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" name="Changes by max" comment="">
+      <change beforePath="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +18,29 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py">
+      <ranges>
+        <range start1="8" end1="9" start2="8" end2="9" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="12" end1="13" start2="12" end2="13" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="18" end1="21" start2="18" end2="18" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="44" end1="46" start2="41" end2="43" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="47" end1="49" start2="44" end2="46" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="51" end1="52" start2="48" end2="49" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="96" end1="98" start2="93" end2="95" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="99" end1="101" start2="96" end2="98" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="103" end1="104" start2="100" end2="101" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="110" end1="111" start2="107" end2="108" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="112" end1="114" start2="109" end2="111" changelist="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" />
+        <range start1="115" end1="117" start2="112" end2="114" changelist="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" />
+        <range start1="118" end1="119" start2="115" end2="116" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+        <range start1="121" end1="121" start2="118" end2="119" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1siYVR3O5H8NYiY9BEkc8soKJK9" />
   <component name="ProjectViewState">
@@ -18,7 +50,57 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cool_projects/fibbonaci_sequence.py" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetection.py" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.facedetectiontk">
+    <configuration name="facedetection" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonChallenges-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Heet\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cool_projects/FaceDetectorProject" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="facedetectiontk" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonChallenges-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Heet\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cool_projects/FaceDetectorProject" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.facedetectiontk" />
+      <item itemvalue="Python.facedetection" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
