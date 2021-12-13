@@ -40,13 +40,13 @@ def webcam_detection():
 
         if d < 1:
             Label(root, text='No faces detected', font='helvetica 40', bg='light blue', fg='red').place(
-                  x=230, y=500)
+                x=230, y=500)
         elif d == 1:
             Label(root, text=' One face detected ', font='helvetica 40', bg='light blue', fg='red').place(
-                  x=230, y=500)
+                x=230, y=500)
         else:
             Label(root, text=f"  {d} faces detected!  ", font='helvetica 40', bg='light blue', fg='red').place(
-                  x=230, y=500)
+                x=230, y=500)
 
         # this shows our webcam on the screen
         # key = cv2... is for waiting until a key is pressed to quit the program

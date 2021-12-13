@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="">
+    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="New file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" afterDir="false" />
     </list>
-    <list id="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" name="Changes by max" comment="">
-      <change beforePath="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py" afterDir="false" />
-    </list>
+    <list id="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" name="Changes by max" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,35 +17,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/cool_projects/FaceDetectorProject/FaceDetectionTkinter.py">
-      <ranges>
-        <range start1="8" end1="9" start2="8" end2="9" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="12" end1="13" start2="12" end2="13" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="18" end1="21" start2="18" end2="18" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="44" end1="46" start2="41" end2="43" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="47" end1="49" start2="44" end2="46" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="51" end1="52" start2="48" end2="49" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="96" end1="98" start2="93" end2="95" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="99" end1="101" start2="96" end2="98" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="103" end1="104" start2="100" end2="101" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="110" end1="111" start2="107" end2="108" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="112" end1="114" start2="109" end2="111" changelist="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" />
-        <range start1="115" end1="117" start2="112" end2="114" changelist="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" />
-        <range start1="118" end1="119" start2="115" end2="116" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-        <range start1="121" end1="121" start2="118" end2="119" changelist="d2b2036d-b844-4782-aaa7-51256f9c750f" />
-      </ranges>
-    </file>
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1siYVR3O5H8NYiY9BEkc8soKJK9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
@@ -121,7 +103,19 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New file" />
     <option name="LAST_COMMIT_MESSAGE" value="New file" />
   </component>
