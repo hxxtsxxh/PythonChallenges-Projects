@@ -118,7 +118,8 @@ def img_detection():
     cv2.waitKey()
 
 
-#  the 'on_enter' and 'on_leave' functions for both buttons have the button change colors once hovered over.
+# the 'on_enter' and 'on_leave' functions for both buttons have the button change colors once hovered over.
+# Source: https://www.tutorialspoint.com/change-the-color-upon-hovering-over-button-in-tkinter
 def on_enter_webcam(e):
     webcam_btn.config(background=button_fg_color, foreground=button_bg_color)
 
