@@ -56,7 +56,7 @@ def webcam_detection():
             Label(root, text=' One face detected ', font='helvetica 40', bg='#ACD7EC', fg='red', padx=2).place(
                 x=230, y=500)
         else:
-            Label(root, text=f"  {d} faces detected!  ", font='helvetica 40', bg='#ACD7EC', fg='red, padx=2').place(
+            Label(root, text=f"  {d} faces detected!  ", font='helvetica 40', bg='#ACD7EC', fg='red', padx=2).place(
                 x=230, y=500)
 
         # this shows our webcam on the screen
