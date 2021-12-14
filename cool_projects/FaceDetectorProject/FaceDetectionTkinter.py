@@ -50,7 +50,7 @@ def webcam_detection():
             d += 1
 
         if d < 1:
-            Label(root, text='No faces detected', font='helvetica 40', bg='#ACD7EC', fg='red', padx=2).place(
+            Label(root, text=' No faces detected ', font='helvetica 40', bg='#ACD7EC', fg='red', padx=2).place(
                 x=230, y=500)
         elif d == 1:
             Label(root, text=' One face detected ', font='helvetica 40', bg='#ACD7EC', fg='red', padx=2).place(
