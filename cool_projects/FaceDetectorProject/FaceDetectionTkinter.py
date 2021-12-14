@@ -17,7 +17,7 @@ label_font = 'helvetica 40'
 # creating a display window with tkinter
 root = Tk()
 root.geometry(screen_dimensions)
-root.resizable(0, 0)
+root.resizable(False, False)
 blank_space = " "  # empty space
 root.title("Face Detection App")
 root.configure(bg=screen_bg_color)
