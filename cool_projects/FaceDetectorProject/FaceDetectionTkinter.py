@@ -4,6 +4,7 @@ import cv2  # Source: https://opencv.org/
 import random  # built-in library of python
 
 # defining necessary variables
+# Source: https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
 path_to_data = 'C:/haarcascade_frontalface_default.xml'  # trained face data we will use
 screen_dimensions = '900x700'
 screen_bg_color = "#7DCFB6"
@@ -23,8 +24,7 @@ root.configure(bg=screen_bg_color)
 
 
 def webcam_detection():
-    # Load some pre-trained data on face frontals from opencv (haar cascade algorithm) Source:
-    # https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
+    # Load some pre-trained data on face frontals from opencv (haar cascade algorithm)
     trained_face_data = cv2.CascadeClassifier(path_to_data)
 
     # to capture face from webcam
