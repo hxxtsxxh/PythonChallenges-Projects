@@ -1,8 +1,8 @@
 nums = [10, 20, 30, 40, 50]
 
-sum = 0
+total = 0
 
 for i in nums:
-  sum += i
+    total += i
 
-print(f' {sum/(len(nums))} is the average of {nums}.')
+print(f' {total / (len(nums))} is the average of {nums}.')
