@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="Changes.">
-      <change afterPath="$PROJECT_DIR$/cool_projects/find_average.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonChallenges-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonChallenges-Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="Changes." />
     <list id="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" name="Changes by max" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639522010297</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Changes.">
+      <created>1642602091469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642602091469</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
