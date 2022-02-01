@@ -11,4 +11,4 @@ class Rectangle:
 
 
 rect1 = Rectangle(50, 30)
-print(rect1.getArea())
+print("This is rectangle 1 area: " + rect1.getArea())

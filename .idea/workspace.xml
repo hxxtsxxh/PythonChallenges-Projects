@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="Changes.">
-      <change afterPath="$PROJECT_DIR$/cool_projects/areaRect.py" afterDir="false" />
+    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="New File.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cool_projects/areaRect.py" beforeDir="false" afterPath="$PROJECT_DIR$/cool_projects/areaRect.py" afterDir="false" />
     </list>
     <list id="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" name="Changes by max" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -329,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643683413044</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="New File.">
+      <created>1643684215009</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643684215009</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,6 +354,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New file" />
     <MESSAGE value="Changes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes." />
+    <MESSAGE value="New File." />
+    <option name="LAST_COMMIT_MESSAGE" value="New File." />
   </component>
 </project>
