@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="New File.">
+      <change afterPath="$PROJECT_DIR$/cool_projects/coinFlip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cool_projects/areaRect.py" beforeDir="false" afterPath="$PROJECT_DIR$/cool_projects/areaRect.py" afterDir="false" />
     </list>
     <list id="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" name="Changes by max" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/cool_projects/username_generator.py" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.areaRect">
+  <component name="RunManager" selected="Python.coinFlip">
     <configuration name="areaRect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonChallenges-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,6 +57,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cool_projects/areaRect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coinFlip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonChallenges-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cool_projects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cool_projects/coinFlip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,9 +242,11 @@
       <item itemvalue="Python.username_gen" />
       <item itemvalue="Python.palindromeChecker" />
       <item itemvalue="Python.areaRect" />
+      <item itemvalue="Python.coinFlip" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.coinFlip" />
         <item itemvalue="Python.areaRect" />
         <item itemvalue="Python.palindromeChecker" />
       </list>
@@ -336,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643684215009</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="New File.">
+      <created>1643684289586</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643684289586</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
