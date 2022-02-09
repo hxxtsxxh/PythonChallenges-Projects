@@ -16,6 +16,10 @@ class Dog:
         return ''
 
 
-dog_one = Dog("Heet Shah", 15, "red", "Golden Retriever")
+dog_one = Dog("Heet Shah", 15, "red", "Golden Retriever") #created object dog_one
+dog_two = Dog("Joe Mama", 25, "brown", "Doodle") #created object dog_two
 print(dog_one.bark())
+print()
+print(dog_two.bark())
+
 
