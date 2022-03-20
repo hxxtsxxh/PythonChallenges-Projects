@@ -1,10 +1,10 @@
 import requests
 
 
-class RealTimeCurrencyConverter():
-    def __init__(self, url):
+class RealTimeCurrencyConverter:
+    def __init__(self, link):
         self.amount = None
-        self.data = requests.get(url).json()
+        self.data = requests.get(link).json()
         self.currencies = self.data['rates']
 
     def convert(self, from_currency, to_currency, amount):

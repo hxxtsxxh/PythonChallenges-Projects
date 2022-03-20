@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="New File.">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonChallenges-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonChallenges-Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cool_projects/NotSoSelfDriving.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cool_projects/currency_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/cool_projects/currency_converter.py" afterDir="false" />
     </list>
     <list id="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" name="Changes by max" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -299,7 +299,9 @@
       <option name="presentableId" value="Default" />
       <updated>1621356904747</updated>
       <workItem from="1645123141841" duration="1233000" />
-      <workItem from="1645124403932" duration="1191000" />
+      <workItem from="1645124403932" duration="2237000" />
+      <workItem from="1645554698383" duration="48000" />
+      <workItem from="1647818144863" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="New file">
       <created>1621357037440</created>
@@ -413,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643769476948</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="New File.">
+      <created>1645125636164</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1645125636164</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +447,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="New File." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonChallenges_Projects$currency_converter.coverage" NAME="currency_converter Coverage Results" MODIFIED="1645125254571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cool_projects" />
+    <SUITE FILE_PATH="coverage/PythonChallenges_Projects$currency_converter.coverage" NAME="currency_converter Coverage Results" MODIFIED="1645127378275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cool_projects" />
     <SUITE FILE_PATH="coverage/PythonChallenges_Projects$username_gen.coverage" NAME="username_gen Coverage Results" MODIFIED="1645123223405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cool_projects" />
   </component>
 </project>
