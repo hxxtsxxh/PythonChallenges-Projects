@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="New File." />
+    <list default="true" id="d2b2036d-b844-4782-aaa7-51256f9c750f" name="Default Changelist" comment="New File.">
+      <change afterPath="$PROJECT_DIR$/NetworkProgramming/using_urllib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetworkProgramming/web_browser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonChallenges-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonChallenges-Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="57ef6f33-1fd5-4ac0-a823-6a7ef83683b0" name="Changes by max" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cool_projects/currency_converter.py" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
-  </component>
-  <component name="RunManager" selected="Python.cracker">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/heet1/PycharmProjects/PythonChallenges-Projects/NetworkProgramming/web_browser.py",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.using_urllib">
     <configuration name="areaRect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonChallenges-Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,6 +294,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="using_urllib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonChallenges-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NetworkProgramming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NetworkProgramming/using_urllib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="web_browser" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonChallenges-Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\heet1\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NetworkProgramming" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NetworkProgramming/web_browser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.emailslicer" />
       <item itemvalue="Python.facedetection" />
@@ -296,6 +346,8 @@
       <item itemvalue="Python.find_avarage" />
       <item itemvalue="Python.username_gen" />
       <item itemvalue="Python.currency_converter" />
+      <item itemvalue="Python.web_browser" />
+      <item itemvalue="Python.using_urllib" />
       <item itemvalue="Python.palindromeChecker" />
       <item itemvalue="Python.areaRect" />
       <item itemvalue="Python.coinFlip" />
@@ -303,6 +355,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.using_urllib" />
         <item itemvalue="Python.cracker" />
         <item itemvalue="Python.coinFlip" />
         <item itemvalue="Python.areaRect" />
@@ -323,6 +376,8 @@
       <workItem from="1645554698383" duration="48000" />
       <workItem from="1647818144863" duration="675000" />
       <workItem from="1647992334652" duration="1189000" />
+      <workItem from="1654203557873" duration="102000" />
+      <workItem from="1654730687380" duration="1288000" />
     </task>
     <task id="LOCAL-00001" summary="New file">
       <created>1621357037440</created>
@@ -482,8 +537,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="New File." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonChallenges_Projects$currency_converter.coverage" NAME="currency_converter Coverage Results" MODIFIED="1645127378275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cool_projects" />
-    <SUITE FILE_PATH="coverage/PythonChallenges_Projects$cracker.coverage" NAME="cracker Coverage Results" MODIFIED="1647993490924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cool_projects/Password Cracker" />
     <SUITE FILE_PATH="coverage/PythonChallenges_Projects$username_gen.coverage" NAME="username_gen Coverage Results" MODIFIED="1645123223405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cool_projects" />
+    <SUITE FILE_PATH="coverage/PythonChallenges_Projects$currency_converter.coverage" NAME="currency_converter Coverage Results" MODIFIED="1645127378275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cool_projects" />
+    <SUITE FILE_PATH="coverage/PythonChallenges_Projects$web_browser.coverage" NAME="web_browser Coverage Results" MODIFIED="1654731054254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NetworkProgramming" />
+    <SUITE FILE_PATH="coverage/PythonChallenges_Projects$using_urllib.coverage" NAME="using_urllib Coverage Results" MODIFIED="1654743944145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NetworkProgramming" />
+    <SUITE FILE_PATH="coverage/PythonChallenges_Projects$cracker.coverage" NAME="cracker Coverage Results" MODIFIED="1654731013754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cool_projects/Password Cracker" />
   </component>
 </project>
