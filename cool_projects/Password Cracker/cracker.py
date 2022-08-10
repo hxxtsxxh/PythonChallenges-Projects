@@ -8,6 +8,7 @@ reading wordlist file and then finally for Brute Forcing!'''
 # this function will take a URL as a parameter and will then return us file content
 # if any exception is raised during this process, the program will exit() the script
 def read_wordlist(url):
+    global wordlistfile
     try:
         wordlistfile = urlopen(url).read()
     except Exception as e:
@@ -16,8 +17,8 @@ def read_wordlist(url):
     return wordlistfile
 
 
-# this function will take passwd as a parameter and then will return us hash of the password as a string
-# the hashlib.sha1 function expects the argument to be of type<class 'bytes'> which is why we are passing passwd.encode()
+# this function will take passwd as a parameter and then will return us hash of the password as a string the
+# hashlib.sha1 function expects the argument to be of type<class 'bytes'> which is why we are passing passwd.encode()
 def hash(passwd):
     result = hashlib.sha1(passwd.encode())
     return result.hexdigest()
@@ -34,7 +35,8 @@ def bruteforce(guesspasswordlist, actual_password_hash):
 
 
 # the url below can be ANY URL; just make sure it is a txt file!
-url = 'https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Real-Passwords/Top12Thousand-probable-v2.txt'
+url = 'https://raw.githubusercontent.com/berzerk0/Probable-Wordlists/master/Real-Passwords/Top12Thousand-probable-v2' \
+      '.txt '
 actual_password = 'computers'
 actual_password_hash = hash(actual_password)
 
